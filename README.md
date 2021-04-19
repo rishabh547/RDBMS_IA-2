@@ -34,9 +34,9 @@ Just run the script.py file inside the folder Bsoup_Reddit_Web_Crawling.
 It is basically used to scrape quotes from online urls & store them in various types of files like csv, json ,etc.
 
 ### To run the program : 
-1. Open the folder scrapy_tutorial and then cd tutorial.
+1. Open the folder scrapy_tutorial and then cd tutorial for working with spider1.py file
 
-### Working in the scrapy shell with selectors
+### Working in the scrapy shell with selectors(in root directory - scrapy_tutorial)
 ```
 scrapy shell http://quotes.toscrape.com/page/1/
 ```
