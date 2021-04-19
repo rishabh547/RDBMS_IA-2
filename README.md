@@ -38,7 +38,7 @@ It is basically used to scrape quotes from online urls & store them in various t
 
 ### Working in the scrapy shell with selectors
 ```
-scrapy shell https://blog.scrapinghub.com/
+scrapy shell http://quotes.toscrape.com/page/1/
 ```
 
 ```
