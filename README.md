@@ -38,7 +38,7 @@ It is basically used to scrape quotes from online urls & store them in various t
 
 ### Working in the scrapy shell with selectors(in root directory - scrapy_tutorial)
 ```
-scrapy shell http://quotes.toscrape.com/page/1/
+scrapy shell 'http://quotes.toscrape.com/page/1/'
 ```
 
 ```
@@ -64,9 +64,11 @@ response.xpath('//h3/text()').extract()
 We can even scrape quotes from urls using ```scrapy crawl quotes command in tutorial directory & store them in json & csv files.```
 
 #### Commands are:
-``` scrapy crawl quotes '''
-``` scrapy crawl quotes -O quotes.json ```
-``` scrapy crawl quotes -O quotes.csv ```
+```
+scrapy crawl quotes 
+scrapy crawl quotes -O quotes.json
+scrapy crawl quotes -O quotes.csv 
+```
 
 ### For any Help refer :
 Offical Documentation of all the frameworks & libraries used in Project
