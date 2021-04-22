@@ -12,7 +12,7 @@
 ## Part 1 :  Implementation of Udemy_Spam_Detection_Bot using PRAW
 
 It is basically used to Detect Spam Comments on a Particular Subreddit for Udemy Courses based on a particular Z-Score.
-If Z-Score > 0.5 , It is a Spam else pass.
+If Z-Score >= 0.5 , It is a Spam else pass.
 
 ### To run the program (2 options):
 
