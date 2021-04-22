@@ -60,6 +60,7 @@ response.css('p::text').re(r'(\w+) you (\w+)')
 response.xpath('//h3')
 response.xpath('//h3/text()').extract()
 
+and so on .. (More commands can be used to scrape different kinds of data)
 ```
 We can even scrape quotes from urls using ```scrapy crawl quotes command in tutorial directory & store them in json & csv files.```
 
