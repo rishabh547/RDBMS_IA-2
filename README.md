@@ -3,6 +3,7 @@
 #### Class : SY COMPS B
 #### Course : RDBMS
 #### Faculty name : VPV Sir & PYB Ma'am
+#### College name : KJSCE
 
 #### Topic : Implementation of Udemy_Spam_Detection_Bot using PRAW, Web Scraping using Scrapy & Beautiful Soup Web Crawling.
 
