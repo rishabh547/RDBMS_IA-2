@@ -20,7 +20,7 @@ If Z-Score >= 0.5 , It is a Spam else pass.
 
 (Option 2) :
 1. git clone https://github.com/rishabh547/RDBMS_IA-2
-2. Run the .py files inside Udemy_Spam_Detection_PRAW folder to see the implementation.
+2. Run the .py files inside Udemy_subreddit_Spam_Detection_Bot folder to see the implementation.
 
 
 ## Part 2 : Beautiful Soup Web Crawling
