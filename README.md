@@ -1,4 +1,4 @@
-# RDBMS_IA-2
+# RDBMS_IA-2 (Web Scraping)
 #### Name : Rishabh Kothari , Roll no :1911110
 #### Class : SY COMPS B
 #### Course : RDBMS
